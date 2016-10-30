@@ -1,0 +1,26 @@
+body{
+  font-family: monospace;
+}
+.heading{
+  background-color: rgb(200,0,0);
+  color : #FFF;
+}
+.timeDisplay{
+  font-size: 2.5em;
+  text-align: center;
+  background-color: rgba(255,100,100,0.8);
+}
+.actionButtons{
+  text-align: center;
+}
+.actionButton{
+  font-size: 1.5em;
+}
+
+body {
+  background: url(/img/tomatoBackground.png) no-repeat center bottom fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
